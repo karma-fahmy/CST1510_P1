@@ -1,0 +1,7 @@
+SRC=10.0.0.5,ATTEMPTS=12,RESULT=FAILED
+  src = 192.168.1.20 , attempts=3 , result=success  
+Src=172.16.4.9,Attempts = 27,Result=failed
+   SRC=10.0.0.77 ,   ATTEMPTS=1,  RESULT=Success
+src=203.0.113.45,ATTEMPTS=9 ,result= FAILED
+  SRC = 198.51.100.8 , Attempts=15 , Result = Failed   
+sRc=10.0.0.5,aTTempts=2,rEsUlT=SUCCESS
